@@ -8,3 +8,7 @@ __DATA__
 punytan
 punytan@gmail.com
 HTML::Entities::Recursive
+API
+OO
+jQuery's
+scalarref
